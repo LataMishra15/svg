@@ -43,7 +43,7 @@ SVG/
 └── README.md
 ```
 
-If I make it, I’ll probably put it here.🎨
+If I make more, I’ll probably put it here.🎨
 
 ---
 
